@@ -58,10 +58,6 @@ Skills
 * Nordic SoC, Microchip MCU,
   STM32 MCU
 * CREO Parametric, Comsol
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-* Skill 3
 
 Languages
 ======
