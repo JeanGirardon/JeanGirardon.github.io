@@ -23,13 +23,14 @@ Education
 
 Work experience
 ======
-* Niklaus SA, Meyrin
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March - July 2014 : Internship
+  * Niklaus SA, Meyrin
+  * Duties included: Control of chemical baths in a surface treatment company for damp
+    deposition and coating (chemical deposits, electrolytic deposits,
+    chemical conversions).
 
 * Fall 2015: Research Assistant
-  * Github University
+  * Niklaus SA, Meyrin
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
