@@ -51,11 +51,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* MS Office suite
+* Matlab, Labview
+* Langage C, Python
+* Kicad, Altium, EasyEDA, LTspice
+* Nordic SoC, Microchip MCU,
+  STM32 MCU
+* CREO Parametric, Comsol
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Languages
