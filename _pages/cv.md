@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Niklaus SA, Meyrin
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -41,3 +41,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Languages
+======
+* French : First language
+* English : Proficient (C1)
+* Spanish : Scholar (B1)
