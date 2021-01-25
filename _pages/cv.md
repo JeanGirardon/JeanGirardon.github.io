@@ -32,6 +32,10 @@ Work experience
 * **April - July 2017 : Bachelor project**
   * Campus Biotech, Geneva
   * Project title : Optimization of a pad printing machine for fast prototyping
+  * Resume : Tampography is an indirect stamp printing process used to print small
+    electronic circuits. The project consisted of developing a system for
+    rectifying a possible offset (determined by image processing) between
+    two layers of a printed circuit.
 
 * **September - December 2017 : Support at the Hepia Microengineering laboratory**
   * Campus Biotech, Geneva
@@ -40,6 +44,10 @@ Work experience
 * **October 2019 - Mars 2020 : Master thesis project**
   * Spaulding Rehabilitation Hospital, Boston
   * Project title : Sensing and Regulation for Pediatric Lower Limb Exoskeleton
+  * Resume : As part of a project to develop a lower limb exoskeleton for children
+    with cerebral palsy, my thesis was devoted to the design of a platform
+    for acquiring data provided by the exoskeleton sensors and their
+    transmission to the control system.
   
 Skills
 ======
