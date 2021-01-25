@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Preparatory courses for HES Bachelor in Microengineering, CFPT, Switzerland, 2013-2014
+* Bachelor of Science in Microengineering,major in Electronic Design, Hepia (HES-SO), Switzerland, 2014-2017
+* Master of Science in Engineering, major in Biomedical, HES-SO, Switzerland, 2018-2020
 
 Work experience
 ======
