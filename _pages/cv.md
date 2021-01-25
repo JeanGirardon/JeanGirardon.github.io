@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Preparatory courses for HES Bachelor in Microengineering, CFPT, Switzerland, 2013-2014
-* Bachelor of Science in Microengineering,major in Electronic Design, Hepia (HES-SO), Switzerland, 2014-2017
-* Master of Science in Engineering, major in Biomedical, HES-SO, Switzerland, 2018-2020
+* Preparatory courses for HES Bachelor in Microengineering
+  2013-2014
+  CFPT, Lancy, Switzerland
+* Bachelor of Science in Microengineering, major in Electronic Design
+  2014-2017
+  Hepia (HES-SO), Geneva, Switzerland 
+* Master of Science in Engineering, major in Biomedical
+  2018-2020
+  HES-SO, Switzerland
 
 Work experience
 ======
