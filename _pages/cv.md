@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Preparatory courses for HES Bachelor in Microengineering
-  2013-2014
-  CFPT, Lancy, Switzerland
+    2013-2014
+    CFPT, Lancy, Switzerland
 * Bachelor of Science in Microengineering, major in Electronic Design
   2014-2017
   Hepia (HES-SO), Geneva, Switzerland 
