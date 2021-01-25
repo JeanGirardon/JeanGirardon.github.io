@@ -25,14 +25,21 @@ Work experience
 ======
 * March - July 2014 : Internship
   * Niklaus SA, Meyrin
-  * Duties included: Control of chemical baths in a surface treatment company for damp
+  * Duties included : Control of chemical baths in a surface treatment company for damp
     deposition and coating (chemical deposits, electrolytic deposits,
-    chemical conversions).
+    chemical conversions)
 
-* Fall 2015: Research Assistant
-  * Niklaus SA, Meyrin
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April - July 2017 : Bachelor project
+  * Campus Biotech, Geneva
+  * Project title : Optimization of a pad printing machine for fast prototyping
+
+* September - December 2017 : Support at the Hepia Microengineering laboratory
+  * Campus Biotech, Geneva
+  * Duties included : Continuation of the Bachelor project
+  
+* October 2019 - Mars 2020 : Master thesis project
+  * Spaulding Rehabilitation Hospital, Boston
+  * Project title : Sensing and Regulation for Pediatric Lower Limb Exoskeleton
   
 Skills
 ======
